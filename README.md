@@ -2,8 +2,8 @@
 
 I'm an Epicenter Eco Car that can fly powered by solar panels 
 
-- 🚀 JAD BOU KARAM - CEO & CTO
--   Gaëlle Bared - CEO & CSO & CCO
+-   Jad Bou Karam - CEO & CTO
+- 🚀 Gaëlle Bared - CEO & CSO & CCO
 -     Jason Ghazar - CEO & COO
 
 <div>
@@ -11,7 +11,7 @@ I'm an Epicenter Eco Car that can fly powered by solar panels
     <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
     <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
     <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
-    <img src="https://img.shields.io/static/v1?label=&message=JAVA&color=orange&style=for-the-badge&logo=JAVA&logoColor=whitesmoke" alt="JAVA">
+    <img src="https://img.shields.io/static/v1?label=&message=C&color=orange&style=for-the-badge&logo=C&logoColor=whitesmoke" alt="C#">
     <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
     <br><br>
 </div>
