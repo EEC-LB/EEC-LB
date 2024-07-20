@@ -4,7 +4,7 @@ I'm an Epicenter Eco Car that can fly powered by solar panels
 
 -   Jad Bou Karam - CEO & CTO
 - 🚀 Gaëlle Bared - CEO & CSO & CCO
--     Jason Ghazar - CEO & COO
+- ⚡  Jason Ghazar - CEO & COO
 
 <div>
   <h2>🧰 EEC WAS BUILT USING:</h2><br>
