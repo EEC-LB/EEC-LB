@@ -1,6 +1,6 @@
 <h1>Hi There, Welcome to EEC <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm an Epicenter Eco Car powered by solar panels, and i can FLY
+I'm an Epicenter Eco Car powered by solar panels, and I can FLY
 
 - 🔭 Jad Bou Karam - CEO & CTO
 - 🚀 Gaëlle Bared - CEO & CSO & CCO
